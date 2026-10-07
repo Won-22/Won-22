@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="412" height="150" viewBox="0 0 412 150" role="img" aria-label="SKT-ALEPH: 프로젝트성 과제"><style>
+text{font-family:'Pretendard','Apple SD Gothic Neo','Malgun Gothic','Noto Sans KR',sans-serif;fill:#1f2328}
+.m{fill:#59636e} .a{fill:#047857} .mono{font-family:'JetBrains Mono',Consolas,monospace}
+@keyframes rise{from{opacity:0;transform:translateY(6px)}}
+@keyframes fill{from{transform:scaleX(0)}}
+@keyframes spin{to{transform:rotate(360deg)}}
+@keyframes blip{0%,100%{opacity:.2}40%{opacity:1}}
+.r{animation:rise .8s cubic-bezier(.16,1,.3,1) backwards}
+.xp{transform-box:fill-box;transform-origin:left;animation:fill 1.6s cubic-bezier(.16,1,.3,1) .4s backwards}
+.sweep{transform-origin:700px 120px;animation:spin 4s linear infinite}
+.b1{animation:blip 4s linear infinite} .b2{animation:blip 4s linear 2.2s infinite}
+@media (prefers-reduced-motion:reduce){*{animation:none!important}}
+</style><rect x=".5" y=".5" width="411" height="149" rx="12" fill="#ffffff" stroke="#d0d7de"/>
+<text x="28" y="40" font-size="12" class="m">퀘스트</text>
+<text x="28" y="72" font-size="22" font-weight="700">SKT-ALEPH</text>
+<text x="28" y="100" font-size="14" class="m">프로젝트성 과제</text>
+<text x="28" y="126" font-size="12" class="a mono">JavaScript</text></svg>
