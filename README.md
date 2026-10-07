@@ -10,14 +10,16 @@
   </picture>
 </a>
 
-<a href="https://github.com/Won-22/security-agent-toolkit"><picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/quest-toolkit-dark.svg">
-  <img alt="퀘스트 security-agent-toolkit: Skt Aleph 학습" src="assets/quest-toolkit-light.svg" width="49%">
-</picture></a>
-<a href="https://github.com/Won-22/SKT-ALEPH"><picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/quest-aleph-dark.svg">
-  <img alt="퀘스트 SKT-ALEPH: 프로젝트성 과제" src="assets/quest-aleph-light.svg" width="49%">
-</picture></a>
+<p>
+  <a href="https://github.com/Won-22/security-agent-toolkit"><picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/quest-toolkit-dark.svg">
+    <img alt="퀘스트 security-agent-toolkit: Skt Aleph 학습" src="assets/quest-toolkit-light.svg" width="49%">
+  </picture></a>
+  <a href="https://github.com/Won-22/SKT-ALEPH"><picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/quest-aleph-dark.svg">
+    <img alt="퀘스트 SKT-ALEPH: 프로젝트성 과제" src="assets/quest-aleph-light.svg" width="49%">
+  </picture></a>
+</p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg">
